@@ -1,6 +1,6 @@
 {
   "name": "debouncie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Debounce that returns a promise.",
   "keywords": [
     "async",
